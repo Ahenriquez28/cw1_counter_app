@@ -1,0 +1,33 @@
+CSC 4360 - Mobile App Development
+CW #01 - Counter & Image Toggle App
+
+GitHub Repository: https://github.com/Ahenriquez28/cw1_counter_app
+
+Student Names:
+- [Your Name Here]
+- [Partner Name Here (if applicable)]
+
+Project Features Implemented:
+
+Core Requirements:
+✓ Counter with increment functionality
+✓ Image toggle with animation (FadeTransition)
+✓ Light/Dark theme switching
+✓ Asset management (2 images + sound)
+
+Scale-Up Features:
+✓ Multi-step controls (+1, +5, +10)
+✓ Decrement and Reset buttons with disabled states
+✓ History tracking with Undo functionality
+
+Bonus Features:
+✓ Dynamic counter color (green → orange → red)
+✓ Sound effect on image toggle
+
+Build Information:
+- Flutter Version: 3.0.0+
+- Target SDK: 34
+- Min SDK: 21
+- APK Location: build/app/outputs/flutter-apk/app-release.apk
+
+Submission Date: 02/15/2026
